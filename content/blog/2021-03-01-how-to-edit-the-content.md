@@ -6,6 +6,8 @@ This is my first edit
 
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images and even code snippets.
 
+![Pirates!](/img/evuuy_bxyaipbqi.jpg "Pirates!")
+
 If you are in local development-mode (`npm run dev`) you can double-click here to edit and save this page quickly.
 
 ```js{1,4}\[posts.vue]
